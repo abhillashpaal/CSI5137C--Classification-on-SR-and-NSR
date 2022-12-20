@@ -1,0 +1,23 @@
+** bow-11 **
+count: 683
+top ten: integrity, availability, encrypt, audit, access, password, authentication, tolerance, fault, maintain
+
+** bow-10 **
+count: 262
+top ten: abstraction, access, accessible, able, accidental, accomplish, account, accuracy, accurate, accustom
+
+** bow-2 **
+count: 244
+top ten: password, access, authentication, log, interface, maintain, encrypt, integrity, availability, secure
+
+** tfidf-11 **
+count: 1047
+top ten: integrity, encrypt, availability, access, error, password, audit, fault, tolerance, recovery
+
+** tfidf-10 **
+count: 1111
+top ten: abstraction, access, coding, able, accessible, capture, accidental, accomplish, account, accuracy
+
+** tfidf-2 **
+count: 1073
+top ten: access, password, log, authentication, interface, secure, encrypt, maintain, integrity, availability
