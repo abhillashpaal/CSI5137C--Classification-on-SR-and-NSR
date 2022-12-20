@@ -2,7 +2,7 @@
 Classification of Software Security Requirements using Machine Learning
 
 
-The Permorance report is provided in the result section.
+The Performance report is provided in the result section.
 
 The code can be run on google colab.
 The input path has to be set before executing the code 
