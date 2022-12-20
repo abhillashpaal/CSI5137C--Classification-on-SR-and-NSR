@@ -12,7 +12,7 @@ Input - content_drive/Input - Input the Dosspre Files here
 Output - content_drive/Output
 Feature - content_drive/feature
 
-Refreneces:
+References:
 https://gist.github.com/shaswata56/a66d8034bac6505ad747dd11eb89bb70
 https://github.com/AleksandarMitrevski/se-requirements-classification
 
