@@ -1,6 +1,8 @@
 # CSI5137C--Classification-on-SR-and-NSR
 Classification of Software Security Requirements using Machine Learning
 
+This project aims to classify the Non Security Requireemnts and Security Reuirements and provide a comparative analysis using diffrent machine larning algorithms.
+
 
 The Performance report is provided in the result section.
 
